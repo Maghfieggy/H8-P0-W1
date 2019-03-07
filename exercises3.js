@@ -1,5 +1,5 @@
 var nama = 'Maghfi';
-var peran = 'Ksatria';
+var peran = '';
 
 
 
